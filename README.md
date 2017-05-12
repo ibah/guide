@@ -30,3 +30,4 @@ This is a guide into other repositories and resources. Most of the code was crea
   * Regression Models [report](https://github.com/ibah/coursera-Regression_Models-project/blob/master/FuelEconomyShort.pdf) and the full [repo](https://github.com/ibah/coursera-Regression_Models-project)
   * Statistical Inference [report 1](https://github.com/ibah/coursera-Statistical_Inference-project/blob/master/part1.pdf) and [2](https://github.com/ibah/coursera-Statistical_Inference-project/blob/master/part2.pdf) and the full [repo](https://github.com/ibah/coursera-Statistical_Inference-project/blob/master/part1.pdf)
   * Reproducible Research [report](http://rpubs.com/Ibah/110043) and the full [repo](https://github.com/ibah/coursera-Reproducible_Research-project_2)
+  * Practical Machine Learning, [repo](https://github.com/ibah/coursera-Practical_Machine_Learning-project)
