@@ -4,8 +4,9 @@ This is a guide into other repositories and resources. Most of the code was crea
 ## Kaggle competitions
 
 * Lending Club Dataset - predicting loan default
-  * (soon) Notebook investigating the default of loans - exploration and predictive models
+  * **NEW** [Notebook investigating the default of loans](https://github.com/ibah/kaggle-Lending_Club_dataset/blob/master/LendingClubReport.ipynb) - exploration and predictive models
   * (soon) Notebook containing an XGBoost predictive model
+  * [Repo with Python](https://github.com/ibah/kaggle-Lending_Club_dataset)
 * Leaf Classification Competition
   * [Notebook showing scikit-learn tools application](https://github.com/ibah/kaggle-leaf-classification/blob/master/mLeaf3.ipynb)
   * [Repo with Python](https://github.com/ibah/kaggle-leaf-classification)
