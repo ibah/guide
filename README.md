@@ -30,7 +30,10 @@ This is a guide into other repositories and resources. Most of the code was crea
 ## R
 
 * Introduction to Statistical Learning (a book)
-  * [Repo](https://github.com/ibah/Introduction-to-Statistical-Learning) - contains R code redoing examples, figures and lab sections from the book, solutions to excercises
+  * [Repo](https://github.com/ibah/Introduction-to-Statistical-Learning) - contains R code redoing examples, figures and lab sections from the book, solutions to exercises
+* Analyses and solutions to exercises for data science books by Brian Caffo / JHU
+  * [Statistical Inference for Data Science](https://github.com/ibah/book-BrianCaffo/blob/master/code/stat_inf_exerc.R)
+  * [Regression Models](https://github.com/ibah/book-BrianCaffo/blob/master/code/reg_mod_exerc.R)
 * Advanced Statistical Methods - a course by IPI PAN (Institute of Computer Science, Polish Academy of Sciences)
   * [Repo](https://github.com/ibah/ipipan-Advanced_Statistical_Methods-solutions) - solutions to excercises for modules 1-4
 * R extracts (example code for future reference)
