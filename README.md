@@ -4,7 +4,7 @@ This is a guide into other repositories and resources. Most of the code was crea
 ## Data analysis with predictive modelling
 
 * Predicting housing prices (using data for Seattle, US)
-  * **NEW** [Notebook containing the report](https://github.com/ibah/analysis-HousingPrices/blob/master/models/HousingReport.ipynb)
+  * **NEW** [Notebook containing the report](https://github.com/ibah/analysis-HousingPrices/blob/master/models/HousingReport.ipynb) - exploration, predictive models (e.g. random forest/*sklearn*, *xgboost*), a little introduction to *statsmodels*
 
 ## Kaggle competitions
 
