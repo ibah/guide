@@ -1,6 +1,11 @@
 # Guide
 This is a guide into other repositories and resources. Most of the code was created to explore ideas and was not prepared as a final product ready for publication. As time allows I turn selected pieces of code into publication form - jupyter notebooks, markdown files or html/pdf.
 
+## Data analysis with predictive modelling
+
+* Predicting housing prices (using data for Seattle, US)
+  * **NEW** [Notebook containing the report](https://github.com/ibah/analysis-HousingPrices/blob/master/models/HousingReport.ipynb)
+
 ## Kaggle competitions
 
 * Lending Club Dataset - predicting loan default
